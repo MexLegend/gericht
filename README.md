@@ -1,6 +1,6 @@
 # Gericht
 
-<img src="https://res.cloudinary.com/devmexsoft/image/upload/v1694537408/Projects%20Thumbnails/GTP-3_Thumbnail_apuo9k.png" height="600px"/>
+<img src="https://res.cloudinary.com/devmexsoft/image/upload/v1694545243/Projects%20Thumbnails/Gericht_Thumbnail_jlno5w.png" height="600px"/>
 
 ### [Demo](https://sociopedia-network.vercel.app)
 
