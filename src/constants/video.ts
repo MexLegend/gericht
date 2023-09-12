@@ -1,0 +1,1 @@
+export default 'https://res.cloudinary.com/devmexsoft/video/upload/v1694547289/Gericht/Meal_q8qizi.mp4';

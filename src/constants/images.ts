@@ -1,47 +1,24 @@
-import bg from '../assets/bg.png';
-import chef from '../assets/chef.png';
-import G from '../assets/G.png';
-import gallery01 from '../assets/gallery01.png';
-import gallery02 from '../assets/gallery02.png';
-import gallery03 from '../assets/gallery03.png';
-import gallery04 from '../assets/gallery04.png';
-import knife from '../assets/knife.png';
-import logo from '../assets/logo.png';
-import menu from '../assets/menu.png';
-import overlaybg from '../assets/overlaybg.png';
-import spoon from '../assets/spoon.svg';
-import welcome from '../assets/welcome.png';
-import findus from '../assets/findus.png';
-import laurels from '../assets/laurels.png';
-import award01 from '../assets/award01.png';
-import award02 from '../assets/award02.png';
-import award03 from '../assets/award03.png';
-import award05 from '../assets/award05.png';
-import sign from '../assets/sign.png';
-import quote from '../assets/quote.png';
-import gericht from '../assets/gericht.png';
-
 export default {
-    bg,
-    chef,
-    G,
-    gallery01,
-    gallery02,
-    gallery03,
-    gallery04,
-    knife,
-    logo,
-    menu,
-    overlaybg,
-    spoon,
-    welcome,
-    findus,
-    laurels,
-    award01,
-    award02,
-    award03,
-    award05,
-    sign,
-    quote,
-    gericht,
+    bg: 'https://res.cloudinary.com/devmexsoft/image/upload/v1694547287/Gericht/bg_bwo2cl.png',
+    chef: 'https://res.cloudinary.com/devmexsoft/image/upload/v1694547287/Gericht/chef_ccyjqa.png',
+    G: 'https://res.cloudinary.com/devmexsoft/image/upload/v1694547287/Gericht/G_waqvo9.png',
+    gallery01: 'https://res.cloudinary.com/devmexsoft/image/upload/v1694547287/Gericht/gallery01_ugpw8g.png',
+    gallery02: 'https://res.cloudinary.com/devmexsoft/image/upload/v1694547287/Gericht/gallery02_roqfb7.png',
+    gallery03: 'https://res.cloudinary.com/devmexsoft/image/upload/v1694547287/Gericht/gallery03_yfr0nw.png',
+    gallery04: 'https://res.cloudinary.com/devmexsoft/image/upload/v1694547287/Gericht/gallery04_s4st9j.png',
+    knife: 'https://res.cloudinary.com/devmexsoft/image/upload/v1694547288/Gericht/knife_bj3bjm.png',
+    logo: 'https://res.cloudinary.com/devmexsoft/image/upload/v1694547288/Gericht/logo_h1zs8k.png',
+    menu: 'https://res.cloudinary.com/devmexsoft/image/upload/v1694547289/Gericht/menu_pegjzw.png',
+    overlaybg: 'https://res.cloudinary.com/devmexsoft/image/upload/v1694547289/Gericht/overlaybg_zv4qvg.png',
+    spoon: 'https://res.cloudinary.com/devmexsoft/image/upload/v1694547289/Gericht/spoon_smfmbv.png',
+    welcome: 'https://res.cloudinary.com/devmexsoft/image/upload/v1694547290/Gericht/welcome_qh2osh.png',
+    findus: 'https://res.cloudinary.com/devmexsoft/image/upload/v1694547287/Gericht/findus_ge41vb.png',
+    laurels: 'https://res.cloudinary.com/devmexsoft/image/upload/v1694547288/Gericht/laurels_bcnrxm.png',
+    award01: 'https://res.cloudinary.com/devmexsoft/image/upload/v1694547286/Gericht/award01_u9xm0y.png',
+    award02: 'https://res.cloudinary.com/devmexsoft/image/upload/v1694547286/Gericht/award02_j113ql.png',
+    award03: 'https://res.cloudinary.com/devmexsoft/image/upload/v1694547286/Gericht/award03_gscf60.png',
+    award05: 'https://res.cloudinary.com/devmexsoft/image/upload/v1694547286/Gericht/award05_nw792q.png',
+    sign: 'https://res.cloudinary.com/devmexsoft/image/upload/v1694547289/Gericht/sign_kilvfv.png',
+    quote: 'https://res.cloudinary.com/devmexsoft/image/upload/v1694547289/Gericht/quote_dxxuxn.png',
+    gericht: 'https://res.cloudinary.com/devmexsoft/image/upload/v1694547287/Gericht/gericht_v0opgc.png',
 };

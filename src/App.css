@@ -9,7 +9,7 @@
 }
 
 .app__bg {
-    background: url('./assets/bg.png');
+    background: url('https://res.cloudinary.com/devmexsoft/image/upload/v1694547287/Gericht/bg_bwo2cl.png');
     background-position: center;
     background-size: cover;
     background-repeat: repeat;

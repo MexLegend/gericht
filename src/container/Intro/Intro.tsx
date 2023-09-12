@@ -1,18 +1,18 @@
 import React from 'react';
 import { BsFillPlayFill, BsPauseFill } from 'react-icons/bs';
 
-import { meal } from '../../constants';
+import { video } from '../../constants';
 import './Intro.css';
 
 const Intro = () => {
     const [playVideo, setPlayVideo] = React.useState(false);
-    const vidRef = React.useRef<HTMLVideoElement  | null>(null);
+    const vidRef = React.useRef<HTMLVideoElement | null>(null);
 
     return (
         <div className="app__video">
             <video
                 ref={vidRef}
-                src={meal}
+                src={video}
                 datatype="video/mp4"
                 loop
                 controls={false}
