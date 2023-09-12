@@ -7,7 +7,7 @@
 ## Cloning the repository
 
 ```shell
-git clone https://github.com/MexLegend/gpt-3.git
+git clone https://github.com/MexLegend/gericht.git
 ```
 
 ## Getting Started
