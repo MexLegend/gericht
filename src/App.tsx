@@ -1,26 +1,24 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { Route, BrowserRouter, Routes } from 'react-router-dom';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+import { AboutUs, Chef, FindUs, Footer, Gallery, Header, Intro, Laurels, SpecialMenu } from './container';
+import { Navbar } from './components';
+
+import './App.css';
+import './index.css';
+
+const App = () => (
+    <div>
+        <Navbar />
+        <Header />
+        <AboutUs />
+        <SpecialMenu />
+        <Laurels />
+        <FindUs />
+        <Chef />
+        <Intro />
+        <Gallery />
+        <Footer />
     </div>
-  );
-}
+);
 
 export default App;
